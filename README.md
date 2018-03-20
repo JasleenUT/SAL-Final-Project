@@ -31,3 +31,12 @@ sess$run(hello)
 ```
 P.S. In case there are some error messages shown in step 3, just follow the instructions from the error message to satisfy the prerequisites for tensorflow installation in R.
 
+### About github
+This for you in case you are not familiar with github.
+Here are the one-time steps for you to clone and set the remote connection with this project.
+1. Have a github account.
+2. Fork this project to your own github repo.
+3. Clone your repo to your local directory. `git clone (your repo link)`
+4. Set a connection with this repo. `git remote add upstream git@github.com:chiahuiliu/SAL-Final-Project.git`
+5. To confirm you successfully setting the aforementioned things successfully, type `git remote`, it should show origin and upstream.
+Just to be clear, `origin` is the connection for your local directory in your laptop and your github repo, and `upstream` is the connection for your local directory in your laptop and this repo.
