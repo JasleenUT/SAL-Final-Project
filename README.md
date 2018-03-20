@@ -29,5 +29,5 @@ sess = tf$Session()
 hello <- tf$constant('Hello, TensorFlow!')
 sess$run(hello)
 ```
-P.S. In case there are some error message shown in step 3, just follow the instructions from the error message to satisfy the prerequisites for tensorflow installation in R.
+P.S. In case there are some error messages shown in step 3, just follow the instructions from the error message to satisfy the prerequisites for tensorflow installation in R.
 
