@@ -5,7 +5,7 @@ This is the repo for SAL final project.
 This is for [Kaggle 2018 Data Science Bowl Competition](https://www.kaggle.com/c/data-science-bowl-2018), the goal for this project is to find the nuclei in divergent images to advance medical discovery.
 
 ## Author
-@chiahuiliu
+[@chiahuiliu](https://github.com/chiahuiliu) [chiahuiliu@utexas.edu](chiahuiliu@utexas.edu)
 @
 @
 @
